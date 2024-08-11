@@ -26,6 +26,3 @@ The portfolio website showcases my skills, projects, and experiences. It is desi
 - **Projects**: Descriptions and links to key projects I have worked on.
 - **Contact**: Contact form and links to my social media profiles.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the website.
